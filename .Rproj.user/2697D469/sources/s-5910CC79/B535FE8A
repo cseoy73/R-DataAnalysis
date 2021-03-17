@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615959682629.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "B535FE8A",
+    "lastKnownWriteTime" : 1615961734,
+    "last_content_update" : 1615961734800,
+    "path" : "C:/CSY/Rexam/instagram.R",
+    "project_path" : "instagram.R",
+    "properties" : {
+        "cursorPosition" : "34,12",
+        "scrollLine" : "27",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1615960439652.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "3166D38C",
+    "lastKnownWriteTime" : 1615699660,
+    "last_content_update" : 1615699660,
+    "path" : "C:/CSY/Rexam/lab10.R",
+    "project_path" : "lab10.R",
+    "properties" : {
+        "cursorPosition" : "6,19",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 5,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
